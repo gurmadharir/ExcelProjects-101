@@ -16,6 +16,36 @@ This repository contains a collection of Excel-based data analysis projects desi
 - **Price Comparison**: Analyzes store prices to identify the best deals.
 - **Travel Budget**: Plans and tracks travel expenses against budget.
 
+## 📸 Screenshots
+
+### **Payroll**
+![Payroll](screenshots/payroll.png)
+
+### **Travel Analysis**
+![Payroll](screenshots/travel_budget_analysis.png)
+
+### **Sales Dashboard**
+![Sales Dashboard](screenshots/sales.png)
+
+### **Career Decisions**
+![Career Decisions](screenshots/career_decisions.png)
+
+### **Store Comparison**
+![Price Comparison](screenshots/stores_comparison.png)
+
+### **Gradebook**
+![Gradebook](screenshots/gradebook.png)
+
+### **Car Inventory**
+![Gradebook](screenshots/car_inventory.png)
+
+### **Pet’s Yearly Costs**
+![Pet’s Yearly Costs](screenshots/pets_yearly_costs.png)
+
+### **Loan Comparison**
+![Loan Comparison](screenshots/loan_comparison.png)
+
+
 ## 🛠 Skills Demonstrated
 - Excel formulas and functions
 - Pivot tables and pivot charts
