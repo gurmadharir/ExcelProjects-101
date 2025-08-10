@@ -5,16 +5,16 @@ This repository contains a collection of Excel-based data analysis projects desi
 ## 📂 Projects Included
 
 ### EXCEL
-- **Car Inventory**: Tracks stock, pricing, and vehicle models with pivot charts for quick insights.
-- **Career Decisions**: Uses weighted decision matrices to compare career options.
-- **Printer Cost Analysis**: Compares purchase price and ongoing running costs to find the most cost-effective choice.
-- **Gradebook**: Automates grade calculations, averages, and performance visualizations.
-- **Loan Comparison**: Evaluates loan terms, interest rates, and monthly payments.
 - **Payroll**: Processes salaries, deductions, and net pay with summary reports.
-- **Pet’s Yearly Costs**: Tracks annual expenses for better budget planning.
+- **Travel Budget Analysis**: Plans and tracks travel expenses against budget.
 - **Sales Dashboard**: Monitors sales trends, product performance, and customer data.
-- **Price Comparison**: Analyzes store prices to identify the best deals.
-- **Travel Budget**: Plans and tracks travel expenses against budget.
+- **Career Decisions**: Uses weighted decision matrices to compare career options.
+- **Store Price Comparisons**: Analyzes store prices to identify the best deals.
+- **Gradebook**: Automates grade calculations, averages, and performance visualizations.
+- **Car Inventory**: Tracks stock, pricing, and vehicle models with pivot charts for quick insights.
+- **Pet’s Yearly Costs**: Tracks annual expenses for better budget planning.
+- **Absolute vs Relative CR**: Shows some examples of absolute vs relative cell references.
+- **Loan Comparison**: Evaluates loan terms, interest rates, and monthly payments.
 
 ## 📸 Screenshots
 
@@ -22,7 +22,7 @@ This repository contains a collection of Excel-based data analysis projects desi
 ![Payroll](screenshots/payroll.png)
 
 ### **Travel Analysis**
-![Payroll](screenshots/travel_budget_analysis.png)
+![Travel Budget Analysis](screenshots/travel_budget_analysis.png)
 
 ### **Sales Dashboard**
 ![Sales Dashboard](screenshots/sales.png)
@@ -37,10 +37,14 @@ This repository contains a collection of Excel-based data analysis projects desi
 ![Gradebook](screenshots/gradebook.png)
 
 ### **Car Inventory**
-![Gradebook](screenshots/car_inventory.png)
+![Car Inventory](screenshots/car_inventory.png)
 
 ### **Pet’s Yearly Costs**
 ![Pet’s Yearly Costs](screenshots/pets_yearly_costs.png)
+
+### **Relative vs Absoulute Cell References**
+![Relative vs Absoulute](screenshots/relative_vs_absolute-1.png)
+![Relative vs Absoulute](screenshots/relative_vs_absolute-2.png)
 
 ### **Loan Comparison**
 ![Loan Comparison](screenshots/loan_comparison.png)
