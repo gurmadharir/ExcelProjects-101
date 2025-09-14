@@ -50,8 +50,8 @@ This repository contains a collection of Excel-based data analysis projects desi
 ![Loan Comparison](screenshots/loan_comparison.png)
 
 ### **Sales Dashboard**
-![Sales Dashboard](screenshots/sales_dashboard-1.png)
-![Sales Dashboard](screenshots/sales_dashboard-2.png)
+![Sales Dashboard](screenshots/sales_dashboard_1.png)
+![Sales Dashboard](screenshots/sales_dashboard_2.png)
 
 ### **Excel Lookup Functions**
 ![Vlookup](screenshots/vlookup.png)
