@@ -24,8 +24,8 @@ This repository contains a collection of Excel-based data analysis projects desi
 ### **Travel Analysis**
 ![Travel Budget Analysis](screenshots/travel_budget_analysis.png)
 
-### **Sales Dashboard**
-![Sales Dashboard](screenshots/sales.png)
+### **Sales Database**
+![Sales Database](screenshots/sales.png)
 
 ### **Career Decisions**
 ![Career Decisions](screenshots/career_decisions.png)
@@ -49,6 +49,9 @@ This repository contains a collection of Excel-based data analysis projects desi
 ### **Loan Comparison**
 ![Loan Comparison](screenshots/loan_comparison.png)
 
+### **Sales Dashboard**
+![Sales Dashboard](screenshots/sales_dashboard-1.png)
+![Sales Dashboard](screenshots/sales_dashboard-2.png)
 
 ## 🛠 Skills Demonstrated
 - Excel formulas and functions
