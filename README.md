@@ -53,6 +53,16 @@ This repository contains a collection of Excel-based data analysis projects desi
 ![Sales Dashboard](screenshots/sales_dashboard-1.png)
 ![Sales Dashboard](screenshots/sales_dashboard-2.png)
 
+### **Excel Lookup Functions**
+![Vlookup](screenshots/vlookup.png)
+![Hlookup](screenshots/hlookup.png)
+![Xlookup level-1](screenshots/xlookup.png)
+![Xlookup level-2](screenshots/xlookup-level2.png)
+![Xlookup level-3](screenshots/xlookup-level3.png)
+![Xlookup level-4](screenshots/xlookup-level4.png)
+![Xlookup level-5](screenshots/xlookup-level5.png)
+![Sum and Filter](screenshots/sum&filter.png)
+
 ## 🛠 Skills Demonstrated
 - Excel formulas and functions
 - Pivot tables and pivot charts
